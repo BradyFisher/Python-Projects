@@ -3,15 +3,15 @@ Here is a collection of some of my Python Projects. <br />
 
 **Guessing Game:**<br />
 In this Project I created a game where a random number between 0 and 99 is selected. Then players will take turns guessing the number.
-It can be played with Computer vs Computer, Human vs Computer, or Human vs Human. Where the computer randomly guesses a number between the high and low limits found by previous guesses.
+It can be played with Computer vs Computer, Human vs Computer, or Human vs Human. In the game modes with the computer, the computer will randomly guesses a number between the high and low limits found by previous guesses.
 
 
 **Rock Paper Scissors Game:**<br />
-In this Project I created a game where you play rock paper scissors against the computer. Where the computer randomly select what to throw.
+In this Project I created a game where you play rock paper scissors against the computer. Where the computer randomly selects what to throw.
 
 
 **TicTacToe Game:**<br />
-In this Project I created a game where you play Tic Tac Toe against the computer. Where the computer randomly an open space to place in.
+In this Project I created a game where you play Tic Tac Toe against the computer. Where the computer randomly places in an open space.
 
 
 **Hangman Game:**<br />
